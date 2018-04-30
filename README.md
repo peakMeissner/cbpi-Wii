@@ -1,5 +1,5 @@
 # cbpi-Wii
-This plugin extends the [CraftBeerPi](https://github.com/Manuel83/craftbeerpi3) software by a [sensor](https://github.com/Manuel83/craftbeerpi3/wiki/Custom-Sensor) in order to monitor weight changes (KG/LBS) using a [Nintento Wii Balance Board](https://en.wikipedia.org/wiki/Wii_Balance_Board). The plugin heavily uses an [extended version](https://github.com/peakMeissner/gr8w8upd8m8) of the [Gr8W8Upd8M8](https://github.com/skorokithakis/gr8w8upd8m8) script created by [skorokithakis](https://github.com/skorokithakis) and is therefore licenced under [LGPL 3.0](https://www.gnu.org/licenses/lgpl.html).
+This plugin extends the [CraftBeerPi](https://github.com/Manuel83/craftbeerpi3) software by a [sensor](https://github.com/Manuel83/craftbeerpi3/wiki/Custom-Sensor) in order to monitor weight changes _(KG/LBS)_ using a [Nintento Wii Balance Board](https://en.wikipedia.org/wiki/Wii_Balance_Board). The plugin heavily uses an [extended version](https://github.com/peakMeissner/gr8w8upd8m8) of the [Gr8W8Upd8M8](https://github.com/skorokithakis/gr8w8upd8m8) script created by [skorokithakis](https://github.com/skorokithakis) and is therefore licenced under [LGPL 3.0](https://www.gnu.org/licenses/lgpl.html).
 
 ## Requirements
 - Linux _(i.e. [Raspbian](https://en.wikipedia.org/wiki/Raspbian))_
