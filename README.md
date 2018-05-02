@@ -9,8 +9,7 @@ This plugin extends the [CraftBeerPi](https://github.com/Manuel83/craftbeerpi3) 
 
 ## Installation
     cd craftbeerpi3/modules/plugins/
-    git clone https://github.com/peakMeissner/cbpi-MQTTClient
-    cd cbpi-MQTTClient
+    git clone https://github.com/peakMeissner/cbpi-Wii
 
 ## Sample Implementation
 ![](https://raw.githubusercontent.com/peakMeissner/cbpi-Wii/master/docs/img/sample.jpg)
