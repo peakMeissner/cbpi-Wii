@@ -1,4 +1,4 @@
-from gr8w8upd8m8 import EventProcessor
+from .gr8w8upd8m8 import EventProcessor
 
 class SingleEventProcessor(EventProcessor):
     def mass(self, event):
