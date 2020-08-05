@@ -1,4 +1,4 @@
-from gr8w8upd8m8 import Wiiboard
+from .gr8w8upd8m8 import Wiiboard
 
 INPUT_STATUS = 20
 INPUT_READ_DATA = 21
@@ -24,6 +24,6 @@ class ConstantReceiverBoard(Wiiboard):
             elif intype == EXTENSION_8BYTES:
                 self.processor.mass(self.createBoardEvent(data[2:12]))
             else:
-                print "ACK to data write received"
+                print("ACK to data write received")
         
     

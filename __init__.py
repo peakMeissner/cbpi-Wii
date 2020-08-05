@@ -5,8 +5,8 @@ import threading
 from modules import cbpi
 from modules.core.hardware import SensorPassive
 from modules.core.props import Property
-from lib.gr8w8upd8m8.Processor import SingleEventProcessor
-from lib.gr8w8upd8m8.WiiBoard import ConstantReceiverBoard
+from .lib.gr8w8upd8m8.Processor import SingleEventProcessor
+from .lib.gr8w8upd8m8.WiiBoard import ConstantReceiverBoard
 
 
 class WiiThread(threading.Thread):
